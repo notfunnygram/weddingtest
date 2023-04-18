@@ -1,7 +1,7 @@
 /**
  * 
  */
- const url = 'https://weddingtest.github.io/';
+ const url = 'https://notfunnygram.github.io/weddingtest/';
 
 function setShare() {
   var resultImg = document.querySelector('#resultImg');

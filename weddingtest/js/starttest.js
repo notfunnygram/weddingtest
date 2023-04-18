@@ -135,7 +135,7 @@ function begin() {
 }
 
 function again() {
-  location.href = "https://weddingtest.github.io/"; 
+  location.href = "https://notfunnygram.github.io/weddingtest/"; 
 }
 
 function copyToClipboard(val) {
@@ -148,7 +148,7 @@ function copyToClipboard(val) {
 }
 
 function copy() {
-  copyToClipboard('"https://weddingtest.github.io/');
+  copyToClipboard('https://notfunnygram.github.io/weddingtest/');
   alert('링크가 복사되었습니다!');
 }
 
