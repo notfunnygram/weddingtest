@@ -26,4 +26,3 @@ https://hanguel-spelling-test.github.io/
   - 정답 확인하기
   - 공유하기 (카카오톡, 페이스북, 트위터, 링크 복사)
 
-## Miricanvas(미리캔버스) 활용 이미지 제작
