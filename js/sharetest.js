@@ -8,7 +8,7 @@ function setShare() {
   var resultAlt = resultImg.firstElementChild.alt;
   const shareTitle = '웨딩능력고사 결과';
   const shareDes = infoList[resultAlt - 1].name;
-  const shareImage = url + 'img/result' + resultAlt + '.png';
+  const shareImage = url + 'img/result-' + resultAlt + '.png';
   const shareURL = url + 'page/result' + resultAlt + '.html';
 
     Kakao.Link.sendDefault({
