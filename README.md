@@ -17,6 +17,7 @@ https://hanguel-spelling-test.github.io/
   * CSS
   * JavaScript
   * BootStrap
+* Miricanvas(미리캔버스) 활용 이미지 제작
 <br><br>
 
 - #### 총 20문제, 5단계의 결과지 제작
@@ -24,3 +25,5 @@ https://hanguel-spelling-test.github.io/
   - 20개 퀴즈를 통해 점수에 따라 1~5단계로 결과 분류
   - 정답 확인하기
   - 공유하기 (카카오톡, 페이스북, 트위터, 링크 복사)
+
+## Miricanvas(미리캔버스) 활용 이미지 제작
