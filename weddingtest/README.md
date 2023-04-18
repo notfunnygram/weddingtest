@@ -1,11 +1,12 @@
-# Hangul-Spelling-Test
+## MarryMate Project
+2023.04
+Spring MVC2 기반 자바 웹프로젝트 중 구현된 웨딩테스트 .html로 상용화 배포
+
+## Hangul-Spelling-Test
 한글 맞춤법 퀴즈 반응형 웹사이트
 https://hanguel-spelling-test.github.io/
 참고하여 제작!
 <br><br>
-
-## MarryMate project
-2023.04
 
 ## 활용 도구
 * #### 프론트엔드
