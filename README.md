@@ -2,7 +2,7 @@
 2023.04
 Spring MVC2 기반 자바 웹프로젝트 중 구현된 웨딩테스트 .html로 상용화 배포
 
-https://notfunnygram.github.io/weddingtest/index.html
+https://notfunnygram.github.io/weddingtest/
 
 
 ## Hangul-Spelling-Test
@@ -20,7 +20,6 @@ https://hanguel-spelling-test.github.io/
 <br><br>
 
 - #### 총 20문제, 5단계의 결과지 제작
-- #### 주요 기능
   - 반응형 웹사이트
   - 20개 퀴즈를 통해 점수에 따라 1~5단계로 결과 분류
   - 정답 확인하기
