@@ -2,7 +2,7 @@
 2023.04
 Spring MVC2 기반 자바 웹프로젝트 중 구현된 웨딩테스트 .html로 상용화 배포
 
-https://notfunnygram.github.io/weddingtest/index.html
+https://notfunnygram.github.io/weddingtest/
 
 
 ## Hangul-Spelling-Test
